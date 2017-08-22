@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity{
         {
 
             // Defined URL  where to send data
-            URL url = new URL("http://52.66.87.246/storekeyserver/requestQuote");
+            URL url = new URL("Your URL");
 
             // Send POST data request
 
